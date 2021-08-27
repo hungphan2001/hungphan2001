@@ -5,7 +5,7 @@
     I am a 3rd Year undergraduate from <b>Electric Power University</b>, Hanoi, Vietnam</a>. <br>
     20 years of living a comical life! <br>
     Founder develop at https://github.com/CherishOS and https://github.com/Dot-Extended <br>
-    I Love Android, but iOS is better than about performance.<br>
+    Do not work and want to have eat so only have eat cc :)).<br>
     
 
 
