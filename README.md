@@ -2,8 +2,8 @@ Hi there, I'm <a href="https://github.com/hungphan2001" target="_blank"> Hung Ph
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I am studying software engineering at EPU University;
-- 🚀 I'm currently a founder developer[CherishOS](https://github.com/CherishOS);
+- 👨🏻‍💻 I am studying software engineering at EPU University
+- 🚀 I'm currently a founder developer[CherishOS](https://github.com/CherishOS)
 - 💖 Love working on hobby projects 
 - 🤓 Currently learning everything 
 
